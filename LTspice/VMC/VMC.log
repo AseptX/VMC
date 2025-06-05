@@ -1,6 +1,6 @@
 LTspice 24.1.7 for Windows
-Circuit: C:\Users\a940590\Documents\LTspice\VMC\VMC.net
-Start Time: Thu Jun  5 17:01:54 2025
+Circuit: C:\Users\a940590\Documents\GitHub\VMC\LTspice\VMC\VMC.net
+Start Time: Thu Jun  5 17:12:55 2025
 solver = Normal
 Maximum thread count: 8
 tnom = 27
@@ -70,24 +70,28 @@ Gmin = 9.03833e-12
 Gmin = 9.70483e-13
 vernier = 0.5
 vernier = 0.25
-Gmin = 2.54406e-13
 vernier = 0.125
+Gmin = 8.46115e-13
 vernier = 0.0625
 vernier = 0.03125
-Gmin = 2.25096e-13
 vernier = 0.015625
+Gmin = 7.80324e-13
 vernier = 0.0078125
-vernier = 0.00390625
-vernier = 0.00195312
-vernier = 0.000976562
+vernier = 0.0104167
+vernier = 0.00520833
+Gmin = 7.70741e-13
+vernier = 0.00260417
+vernier = 0.00130208
+vernier = 0.000651042
+Gmin = 7.69488e-13
 vernier = 0.000488281
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 1.442 seconds.
+Total elapsed time: 1.473 seconds.
 
 Files loaded:
-C:\Users\a940590\Documents\LTspice\VMC\VMC.net
-C:\Users\a940590\Documents\LTspice\VMC\SHT40I_model.sub
+C:\Users\a940590\Documents\GitHub\VMC\LTspice\VMC\VMC.net
+C:\Users\a940590\Documents\GitHub\VMC\LTspice\VMC\SHT40I_model.sub
 C:\Ltspice\lib\lib\sub\lmv321a.lib
 
