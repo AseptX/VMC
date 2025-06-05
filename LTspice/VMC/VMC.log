@@ -1,0 +1,93 @@
+LTspice 24.1.7 for Windows
+Circuit: C:\Users\a940590\Documents\LTspice\VMC\VMC.net
+Start Time: Thu Jun  5 17:01:54 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+WARNING: Node vss is floating.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 0.00143183
+vernier = 0.0833333
+vernier = 0.111111
+Gmin = 0.00117506
+vernier = 0.148148
+Gmin = 0.000854269
+vernier = 0.197531
+vernier = 0.263374
+vernier = 0.131687
+Gmin = 0.000597213
+vernier = 0.0658435
+vernier = 0.0329218
+vernier = 0.0164609
+vernier = 0.00823044
+Gmin = 0.000600695
+vernier = 0.0109739
+Gmin = 0.000586062
+vernier = 0.0146319
+vernier = 0.0195092
+Gmin = 0.000562312
+vernier = 0.0260122
+vernier = 0.034683
+Gmin = 0.000526456
+vernier = 0.046244
+Gmin = 0.000474692
+vernier = 0.0616586
+vernier = 0.0822114
+Gmin = 0.000399217
+vernier = 0.109615
+vernier = 0.146154
+Gmin = 0.000303333
+vernier = 0.194871
+Gmin = 0.000197527
+vernier = 0.259828
+vernier = 0.346438
+Gmin = 9.7127e-05
+vernier = 0.461917
+vernier = 0.615889
+Gmin = 3.20652e-05
+vernier = 0.821185
+Gmin = 5.89778e-06
+vernier = 1
+Gmin = 6.3327e-07
+Gmin = 6.79968e-08
+Gmin = 7.3011e-09
+Gmin = 7.8395e-10
+Gmin = 8.4176e-11
+Gmin = 9.03833e-12
+Gmin = 9.70483e-13
+vernier = 0.5
+vernier = 0.25
+Gmin = 2.54406e-13
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 2.25096e-13
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195312
+vernier = 0.000976562
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 1.442 seconds.
+
+Files loaded:
+C:\Users\a940590\Documents\LTspice\VMC\VMC.net
+C:\Users\a940590\Documents\LTspice\VMC\SHT40I_model.sub
+C:\Ltspice\lib\lib\sub\lmv321a.lib
+

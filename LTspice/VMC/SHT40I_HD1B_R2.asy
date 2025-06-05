@@ -1,0 +1,23 @@
+Version 4
+SymbolType BLOCK
+LINE Normal 0 -64 0 -48
+LINE Normal 127 -64 0 -64
+LINE Normal 128 -15 128 -48
+LINE Normal 128 0 128 -15
+LINE Normal 0 0 128 0
+LINE Normal 0 -16 0 0
+LINE Normal 0 -48 0 -16
+LINE Normal 128 -64 127 -64
+LINE Normal 128 -48 128 -64
+SYMATTR Value SHT40I_HD1B_R2
+SYMATTR ModelFile SHT40I_model.sub
+SYMATTR Prefix X
+PIN 128 -48 RIGHT 8
+PINATTR PinName VDD
+PINATTR SpiceOrder 1
+PIN 128 -16 RIGHT 8
+PINATTR PinName VSS
+PINATTR SpiceOrder 2
+PIN 0 -32 LEFT 8
+PINATTR PinName VRH
+PINATTR SpiceOrder 3

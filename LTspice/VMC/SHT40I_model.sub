@@ -1,0 +1,22 @@
+* SHT40I_HD1B_R2 - Modèle comportemental SPICE
+* Entrées : VDD, VSS
+* Sorties : AOUT-T (température), AOUT-RH (humidité)
+* Paramètres : TempC (°C), RH (%)
+
+* Exemple d’utilisation :
+* .param TempC=25 RH=50
+* .include "SHT40I_model.sub"
+* X1 AOUT_RH AOUT_T VDD VSS SHT40I_HD1B_R2
+
+.subckt SHT40I_HD1B_R2 VRH VDD VSS
+*.param RH=50
+
+* RH Output (calculée en fonction de RH et VDD)
+* Vrh = Vdd * (RH + 12.5) / 125
+E_RH VRH VSS VALUE = { (5*((100-RH) + 12.5))/125 }
+*E_RH VRH VSS VALUE = {50}
+
+* Sortie température (10 mV / °C à partir de -40°C)
+*E_T AOUT_T VSS VALUE = {0.01 * (TempC + 40)}
+
+.ends SHT40I_HD1B_R2
