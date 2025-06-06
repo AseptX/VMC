@@ -6,9 +6,9 @@ LINE Normal 0 48 0 -48
 LINE Normal 96 48 0 48
 LINE Normal 96 0 96 48
 WINDOW 3 52 54 Top 2
-SYMATTR Prefix X
 SYMATTR Value RFD16N06LESM
-SYMATTR ModelFile C:\Users\Antoine\Documents\GitHub\VMC\LTspice\VMC\MOS.lib
+SYMATTR Prefix X
+SYMATTR ModelFile MOS.lib
 PIN 0 -32 LEFT 8
 PINATTR PinName Drain
 PINATTR SpiceOrder 1
