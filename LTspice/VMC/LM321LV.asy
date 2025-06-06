@@ -1,24 +1,24 @@
 Version 4
 SymbolType BLOCK
-LINE Normal 0 -80 112 -16
+LINE Normal 0 -80 96 -16
 LINE Normal 0 48 0 -80
-LINE Normal 112 -16 0 48
+LINE Normal 96 -16 0 48
 WINDOW 3 0 56 Top 2
 SYMATTR Prefix X
 SYMATTR Value LM321LV
-SYMATTR ModelFile C:\Ltspice\lib\lib\sub\lm321lv.lib
+SYMATTR ModelFile C:\Users\Antoine\Documents\GitHub\VMC\LTspice\VMC\lm321lv.lib
 PIN 0 -48 LEFT 8
 PINATTR PinName IN+
 PINATTR SpiceOrder 1
 PIN 0 16 LEFT 8
 PINATTR PinName IN-
 PINATTR SpiceOrder 2
-PIN 0 -80 LEFT 8
+PIN 0 -80 RIGHT 8
 PINATTR PinName VCC
 PINATTR SpiceOrder 3
-PIN 0 48 LEFT 8
+PIN 0 48 RIGHT 8
 PINATTR PinName VEE
 PINATTR SpiceOrder 4
-PIN 112 -16 RIGHT 8
+PIN 96 -16 RIGHT 8
 PINATTR PinName OUT
 PINATTR SpiceOrder 5

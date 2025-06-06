@@ -1,97 +1,110 @@
-LTspice 24.1.7 for Windows
-Circuit: C:\Users\a940590\Documents\GitHub\VMC\LTspice\VMC\VMC.net
-Start Time: Thu Jun  5 17:12:55 2025
+LTspice 24.1.9 for Windows
+Circuit: C:\Users\Antoine\Documents\GitHub\VMC\LTspice\VMC\VMC.net
+Start Time: Fri Jun  6 18:31:00 2025
 solver = Normal
-Maximum thread count: 8
+Maximum thread count: 12
 tnom = 27
 temp = 27
 method = trap
 WARNING: Node vss is floating.
 
+Instance "u5:MMED": Length shorter than recommended for a level 1 MOSFET.
+Instance "u5:MMED": Width narrower than recommended for a level 1 MOSFET.
+Instance "u5:MSTRO": Length shorter than recommended for a level 1 MOSFET.
+Instance "u5:MSTRO": Width narrower than recommended for a level 1 MOSFET.
+Instance "u5:MWEAK": Length shorter than recommended for a level 1 MOSFET.
+Instance "u5:MWEAK": Width narrower than recommended for a level 1 MOSFET.
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
 Gmin = 10
-Gmin = 1.07374
-Gmin = 0.115292
-Gmin = 0.0123794
-Gmin = 0.00132923
 vernier = 0.5
-vernier = 0.25
-vernier = 0.125
-vernier = 0.0625
-Gmin = 0.00143183
-vernier = 0.0833333
-vernier = 0.111111
-Gmin = 0.00117506
-vernier = 0.148148
-Gmin = 0.000854269
-vernier = 0.197531
-vernier = 0.263374
-vernier = 0.131687
-Gmin = 0.000597213
-vernier = 0.0658435
-vernier = 0.0329218
-vernier = 0.0164609
-vernier = 0.00823044
-Gmin = 0.000600695
-vernier = 0.0109739
-Gmin = 0.000586062
-vernier = 0.0146319
-vernier = 0.0195092
-Gmin = 0.000562312
-vernier = 0.0260122
-vernier = 0.034683
-Gmin = 0.000526456
-vernier = 0.046244
-Gmin = 0.000474692
-vernier = 0.0616586
-vernier = 0.0822114
-Gmin = 0.000399217
-vernier = 0.109615
-vernier = 0.146154
-Gmin = 0.000303333
-vernier = 0.194871
-Gmin = 0.000197527
-vernier = 0.259828
-vernier = 0.346438
-Gmin = 9.7127e-05
-vernier = 0.461917
-vernier = 0.615889
-Gmin = 3.20652e-05
-vernier = 0.821185
-Gmin = 5.89778e-06
+vernier = 0.666667
+Gmin = 3.04418
+vernier = 0.888888
+Gmin = 0.5164
 vernier = 1
-Gmin = 6.3327e-07
-Gmin = 6.79968e-08
-Gmin = 7.3011e-09
-Gmin = 7.8395e-10
-Gmin = 8.4176e-11
-Gmin = 9.03833e-12
-Gmin = 9.70483e-13
+Gmin = 0.0567082
+Gmin = 0.006089
 vernier = 0.5
+Gmin = 0.00102156
 vernier = 0.25
 vernier = 0.125
-Gmin = 8.46115e-13
 vernier = 0.0625
+Gmin = 0.000853655
 vernier = 0.03125
 vernier = 0.015625
-Gmin = 7.80324e-13
 vernier = 0.0078125
+Gmin = 0.000858576
 vernier = 0.0104167
-vernier = 0.00520833
-Gmin = 7.70741e-13
-vernier = 0.00260417
-vernier = 0.00130208
-vernier = 0.000651042
-Gmin = 7.69488e-13
-vernier = 0.000488281
+vernier = 0.0138889
+Gmin = 0.000833643
+vernier = 0.0185185
+vernier = 0.0246913
+Gmin = 0.000795405
+vernier = 0.0329218
+Gmin = 0.000738821
+vernier = 0.0438957
+vernier = 0.0585276
+Gmin = 0.000652928
+vernier = 0.0780367
+vernier = 0.104049
+Gmin = 0.000536533
+vernier = 0.0520245
+vernier = 0.0260122
+vernier = 0.0130061
+vernier = 0.00650306
+Gmin = 0.000522082
+vernier = 0.00325153
+vernier = 0.00433537
+Gmin = 0.000518559
+vernier = 0.00578049
+vernier = 0.00770732
+Gmin = 0.000511001
+vernier = 0.0102764
+Gmin = 0.000499335
+vernier = 0.0137019
+vernier = 0.0182692
+Gmin = 0.000480358
+vernier = 0.0243589
+vernier = 0.0324786
+Gmin = 0.000451609
+vernier = 0.0433047
+Gmin = 0.000409879
+vernier = 0.0577396
+vernier = 0.0769862
+Gmin = 0.000348492
+vernier = 0.102648
+vernier = 0.136864
+Gmin = 0.000269393
+vernier = 0.182486
+Gmin = 0.000180175
+vernier = 0.243314
+vernier = 0.324419
+Gmin = 9.25449e-05
+vernier = 0.432558
+vernier = 0.576744
+Gmin = 3.26631e-05
+vernier = 0.768992
+Gmin = 6.63547e-06
+vernier = 1
+Gmin = 7.12478e-07
+Gmin = 7.65017e-08
+Gmin = 8.21431e-09
+Gmin = 8.82005e-10
+Gmin = 9.47045e-11
+Gmin = 1.01688e-11
+Gmin = 1.09187e-12
+Gmin = 1.17239e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 1.473 seconds.
+
+Simulation stopped by user.
+Total elapsed time: 67.802 seconds.
 
 Files loaded:
-C:\Users\a940590\Documents\GitHub\VMC\LTspice\VMC\VMC.net
-C:\Users\a940590\Documents\GitHub\VMC\LTspice\VMC\SHT40I_model.sub
-C:\Ltspice\lib\lib\sub\lmv321a.lib
+C:\Users\Antoine\Documents\GitHub\VMC\LTspice\VMC\VMC.net
+C:\Users\Antoine\Documents\GitHub\VMC\LTspice\VMC\SHT40I_model.sub
+C:\Users\Antoine\Documents\GitHub\VMC\LTspice\VMC\lm321lv.lib
+C:\Users\Antoine\Documents\GitHub\VMC\LTspice\VMC\MOS.lib
 

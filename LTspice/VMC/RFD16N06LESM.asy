@@ -1,22 +1,20 @@
 Version 4
 SymbolType BLOCK
-LINE Normal 32 -32 32 -16
-LINE Normal -32 -32 32 -32
-LINE Normal -32 0 -32 -32
-LINE Normal -32 32 -32 0
-LINE Normal 32 32 -32 32
-LINE Normal 32 16 32 32
-LINE Normal 32 -16 32 16
-WINDOW 3 0 40 Top 2
+LINE Normal 96 -48 96 0
+LINE Normal 0 -48 96 -48
+LINE Normal 0 48 0 -48
+LINE Normal 96 48 0 48
+LINE Normal 96 0 96 48
+WINDOW 3 52 54 Top 2
 SYMATTR Prefix X
 SYMATTR Value RFD16N06LESM
-SYMATTR ModelFile C:\Users\a940590\Documents\LTspice\VMC\MOS.lib
-PIN -32 0 LEFT 8
-PINATTR PinName 2
+SYMATTR ModelFile C:\Users\Antoine\Documents\GitHub\VMC\LTspice\VMC\MOS.lib
+PIN 0 -32 LEFT 8
+PINATTR PinName Drain
 PINATTR SpiceOrder 1
-PIN 32 -16 RIGHT 8
-PINATTR PinName 1
+PIN 96 0 RIGHT 8
+PINATTR PinName Gate
 PINATTR SpiceOrder 2
-PIN 32 16 RIGHT 8
-PINATTR PinName 3
+PIN 0 32 LEFT 8
+PINATTR PinName Source
 PINATTR SpiceOrder 3
