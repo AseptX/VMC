@@ -1,0 +1,35 @@
+* Sous-circuit ampli op simple avec saturation rails
+.SUBCKT OPAMP_INVERTING 1 2 3 4
+* Non-inv, Inv, Out, GND
+E1 10 0 POLY(2) (1 0) (2 0) 1MEG
+R1 10 3 1k
+R2 3 4 1k
+D1 3 4 Dmod
+D2 4 3 Dmod
+Vtop 4 0 DC 12
+.model Dmod D(IS=1e-15 N=1)
+.ENDS OPAMP_INVERTING
+
+* Sous-circuit LDO RT9161-50GV
+.SUBCKT RT9161-50GV IN OUT GND
+
+* Référence interne
+VREF REF 0 DC 5
+
+* Ampli erreur : compare REF et sortie OUT via OPAMP_INVERTING
+* Non-inv (pin 1) = REF, Inv (pin 2) = OUT, Out (pin 3) = CTRL, GND (pin 4) = GND
+XOPAMP  REF OUT CTRL GND OPAMP_INVERTING
+
+* Transistor pass P-MOS
+MPASS OUT CTRL IN IN PMOS_MODEL
+
+* Résistance série interne modélisant la chute de tension
+Rdrop IN OUT 0.05
+
+* Compensation capacitive pour stabilité
+Ccomp CTRL 0 20nF
+
+.ENDS RT9161-50GV
+
+* Modèle transistor P-MOS
+.MODEL PMOS_MODEL PMOS (VTO=-2 KP=1.5 L=1u W=10u)
