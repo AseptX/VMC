@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI2306K-TP
+D N-Channel MOSFET,VDS :60 v ,PD :0.96 w,VGS :+/- =30
+K
+F https://www.mccsemi.com/pdf/Products/SI2306K(SOT-23).pdf
+$ENDCMP
+#
+#End Doc Library

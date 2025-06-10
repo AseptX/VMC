@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=LMV321SN3T1G
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=2.1
+Released=2019-08-27 08:03:29
+Downloaded=2025-06-10 08:54:12
+3D=Y

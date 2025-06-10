@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MC78LC50NTRG
+D Excellent Line and Load Regulation; Low Quiescent Current of 1.1 A Typical; Maximum Operating Voltage of 12 V; Low Output Voltage Option; High Accuracy Output Voltage of 2.5%; Industrial Temperature Range of -40?C to 85?C; Two Surface Mount Packages (SOT-89, 3 Pin, or SOT-23, 5 Pin); Pb-Free Packages are Available
+K
+F https://www.onsemi.com/pub/Collateral/MC78LC00-D.PDF
+$ENDCMP
+#
+#End Doc Library

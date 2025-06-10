@@ -1,0 +1,72 @@
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(6): Expected node name here.
+F0 "IC" 1050 300 50 H V L CNN
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(6): Expected device instantiation or directive here.
+F0 "IC" 1050 300 50 H V L CNN
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(7): Expected node name here.
+F1 "SHT40I-HD1B-R2" 1050 200 50 H V L CNN
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(7): Expected device instantiation or directive here.
+F1 "SHT40I-HD1B-R2" 1050 200 50 H V L CNN
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(8): Expected node name here.
+F2 "SHT40IHD1BR2" 1050 100 50 H I L CNN
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(8): Expected device instantiation or directive here.
+F2 "SHT40IHD1BR2" 1050 100 50 H I L CNN
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(9): Expected node name here.
+F3 "https://www.arrow.com/en/products/sht40i-hd1b-r2/sensirion-ag?region=nac" 1050 0 50 H I L CNN
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(9): Expected device instantiation or directive here.
+F3 "https://www.arrow.com/en/products/sht40i-hd1b-r2/sensirion-ag?region=nac" 1050 0 50 H I L CNN
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(10): Expected node name here.
+F4 "Board Mount Humidity Sensors SHT40I-HD1B-R2 2.5kpcsHum. & Temp. IC" 1050 -100 50 H I L CNN "Description"
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(10): Expected device instantiation or directive here.
+F4 "Board Mount Humidity Sensors SHT40I-HD1B-R2 2.5kpcsHum. & Temp. IC" 1050 -100 50 H I L CNN "Description"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(11): Expected node name here.
+F5 "0.59" 1050 -200 50 H I L CNN "Height"
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(11): Expected device instantiation or directive here.
+F5 "0.59" 1050 -200 50 H I L CNN "Height"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(12): Expected node name here.
+F6 "403-SHT40I-HD1B-R2" 1050 -300 50 H I L CNN "Mouser Part Number"
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(12): Expected device instantiation or directive here.
+F6 "403-SHT40I-HD1B-R2" 1050 -300 50 H I L CNN "Mouser Part Number"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(13): Expected node name here.
+F7 "https://www.mouser.co.uk/ProductDetail/Sensirion/SHT40I-HD1B-R2?qs=T%252BzbugeAwjjEpn3Km0P29Q%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(13): Expected device instantiation or directive here.
+F7 "https://www.mouser.co.uk/ProductDetail/Sensirion/SHT40I-HD1B-R2?qs=T%252BzbugeAwjjEpn3Km0P29Q%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(14): Expected node name here.
+F8 "Sensirion" 1050 -500 50 H I L CNN "Manufacturer_Name"
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(14): Expected device instantiation or directive here.
+F8 "Sensirion" 1050 -500 50 H I L CNN "Manufacturer_Name"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(15): Expected node name here.
+F9 "SHT40I-HD1B-R2" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(15): Expected device instantiation or directive here.
+F9 "SHT40I-HD1B-R2" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(16): Expected node name here.
+DRAW
+    ^
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(16): Expected device instantiation or directive here.
+DRAW
+^^^^
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(22): Expected 2 node names here.
+ENDDRAW
+       ^
+C:\Users\a940590\Downloads\LIB_SHT40I-HD1B-R2\SHT40I-HD1B-R2\KiCad\SHT40I-HD1B-R2.lib(23): Expected 2 node names here.
+ENDDEF
+      ^

@@ -1,0 +1,20 @@
+Version 4
+SymbolType BLOCK
+LINE Normal 80 -48 80 0
+LINE Normal -16 -48 80 -48
+LINE Normal 80 48 80 0
+LINE Normal -16 48 80 48
+LINE Normal -16 -48 -16 48
+WINDOW 3 38 62 Top 2
+SYMATTR Prefix X
+SYMATTR Value SI2306K
+SYMATTR ModelFile C:\Users\a940590\Documents\GitHub\VMC\LTspice\VMC\SI2306K.sub
+PIN -16 -32 LEFT 8
+PINATTR PinName Drain
+PINATTR SpiceOrder 1
+PIN 80 0 RIGHT 8
+PINATTR PinName Gate
+PINATTR SpiceOrder 2
+PIN -16 32 LEFT 8
+PINATTR PinName Source
+PINATTR SpiceOrder 3

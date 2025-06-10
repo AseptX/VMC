@@ -1,0 +1,9 @@
+Manufacturer=Sensirion
+PartNumber=SHT40I-HD1B-R2
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=4
+Version=1.1
+Released=2023-03-08 21:03:03
+Downloaded=2025-06-10 08:51:35
+3D=Y

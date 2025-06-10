@@ -1,0 +1,29 @@
+* Micro Commercial Components Corp.
+* SI2306K_SOT-23
+* 60V 0.55A N-Channel MOSFET
+* Date: 2024-07-10
+* The model results according to the actual test data
+***************************************************************************
+.SUBCKT SI2306K  D G S
+M_M1  D G S S SI2306K
+.MODEL SI2306K NMOS
++ LEVEL=3
++ L=2.0000E-6
++ W=17
++ KP=1.0230E-6
++ RS=10.000E-3
++ RD=.7164
++ VTO=1.5387
++ RDS=48.000E6
++ TOX=2.0000E-6
++ CGSO=588.24E-18
++ CGDO=537.90E-15
++ CBD=17.414E-12
++ RG=142.52
++ IS=1.4807E-9
++ N=1.6402
++ RB=1.0000E-9
++ GAMMA=0
++ KAPPA=0
+.ENDS
+***************************************************************************

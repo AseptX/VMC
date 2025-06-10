@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SHT40I-HD1B-R2
+#/17382067/1350296/2.50/4/4/Integrated Circuit
+DEF SHT40I-HD1B-R2 IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "SHT40I-HD1B-R2" 1050 200 50 H V L CNN
+F2 "SHT40IHD1BR2" 1050 100 50 H I L CNN
+F3 "https://www.arrow.com/en/products/sht40i-hd1b-r2/sensirion-ag?region=nac" 1050 0 50 H I L CNN
+F4 "Board Mount Humidity Sensors SHT40I-HD1B-R2 2.5kpcsHum. & Temp. IC" 1050 -100 50 H I L CNN "Description"
+F5 "0.59" 1050 -200 50 H I L CNN "Height"
+F6 "403-SHT40I-HD1B-R2" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Sensirion/SHT40I-HD1B-R2?qs=T%252BzbugeAwjjEpn3Km0P29Q%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Sensirion" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "SHT40I-HD1B-R2" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X AOUT-RH 1 0 0 200 R 50 50 0 0 P
+X AOUT-T 2 0 -100 200 R 50 50 0 0 P
+X VDD 3 1200 -100 200 L 50 50 0 0 P
+X VSS 4 1200 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LMV321SN3T1G
+D Operation from 2.7 V to 5.0 V Single-Sided Power Supply; No Output Crossover Distortion; Industrial temperature Range: -40C to +85C or Automotive -40C to +125C; Rail-to-Rail Output; Low Quiescent Current; No Output Phase-Reversal from Overdriven Input; NCV prefix for Automotive Qualified Version
+K
+F https://www.onsemi.com/pub/Collateral/LMV321-D.PDF
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LMV321SN3T1G")(type "KiCad")(uri "${KIPRJMOD}/Lib/AOP/KiCad/LMV321SN3T1G.kicad_sym")(options "")(descr ""))
+  (lib (name "SHT40I-HD1B-R2")(type "KiCad")(uri "${KIPRJMOD}/Lib/Capteur/KiCad/SHT40I-HD1B-R2.kicad_sym")(options "")(descr ""))
+  (lib (name "10164359-00011LF")(type "KiCad")(uri "${KIPRJMOD}/Lib/Connecteur type C/KiCad/10164359-00011LF.kicad_sym")(options "")(descr ""))
+  (lib (name "MC78LC50NTRG")(type "KiCad")(uri "${KIPRJMOD}/Lib/LDO/KiCad/MC78LC50NTRG.kicad_sym")(options "")(descr ""))
+  (lib (name "PTV09A-4030U-B502")(type "KiCad")(uri "${KIPRJMOD}/Lib/Potentiomètre/KiCad/PTV09A-4030U-B502.kicad_sym")(options "")(descr ""))
+  (lib (name "SI2306K-TP")(type "KiCad")(uri "${KIPRJMOD}/Lib/MOS/KiCad/SI2306K-TP.kicad_sym")(options "")(descr ""))
+  (lib (name "53047-0210")(type "KiCad")(uri "${KIPRJMOD}/Lib/Connecteur sortie/KiCad/53047-0210.kicad_sym")(options "")(descr ""))
+)

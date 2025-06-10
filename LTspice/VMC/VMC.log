@@ -1,6 +1,6 @@
 LTspice 24.1.7 for Windows
 Circuit: C:\Users\a940590\Documents\GitHub\VMC\LTspice\VMC\VMC.net
-Start Time: Tue Jun 10 09:33:19 2025
+Start Time: Tue Jun 10 17:18:49 2025
 solver = Normal
 Maximum thread count: 8
 tnom = 27
@@ -8,12 +8,6 @@ temp = 27
 method = trap
 WARNING: Node vss is floating.
 
-Instance "u5:MMED": Length shorter than recommended for a level 1 MOSFET.
-Instance "u5:MMED": Width narrower than recommended for a level 1 MOSFET.
-Instance "u5:MSTRO": Length shorter than recommended for a level 1 MOSFET.
-Instance "u5:MSTRO": Width narrower than recommended for a level 1 MOSFET.
-Instance "u5:MWEAK": Length shorter than recommended for a level 1 MOSFET.
-Instance "u5:MWEAK": Width narrower than recommended for a level 1 MOSFET.
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
 Gmin = 10
@@ -26,62 +20,60 @@ vernier = 1
 Gmin = 0.0567082
 Gmin = 0.006089
 vernier = 0.5
-Gmin = 0.00113507
+Gmin = 0.00102156
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 0.00090387
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 0.000911748
+vernier = 0.00520833
+Gmin = 0.000901132
+vernier = 0.00694444
+vernier = 0.00925925
+Gmin = 0.000883592
+vernier = 0.0123457
+vernier = 0.0164609
+Gmin = 0.00085634
+vernier = 0.0219478
+Gmin = 0.00081518
+vernier = 0.0292638
+vernier = 0.0390184
+Gmin = 0.000750578
+vernier = 0.0520245
+vernier = 0.0693659
+Gmin = 0.000658201
+vernier = 0.0924879
+Gmin = 0.000535706
+vernier = 0.123317
+vernier = 0.164423
+Gmin = 0.000380038
+vernier = 0.21923
+vernier = 0.292307
+Gmin = 0.000221073
+vernier = 0.389743
+Gmin = 9.54418e-05
+vernier = 0.519657
+vernier = 0.692876
+Gmin = 2.42075e-05
+vernier = 0.923834
+vernier = 1
+Gmin = 3.23527e-06
+vernier = 0.5
 vernier = 0.25
 vernier = 0.125
 vernier = 0.0625
 vernier = 0.03125
-Gmin = 0.00106002
 vernier = 0.015625
-vernier = 0.0208333
-Gmin = 0.00102613
-vernier = 0.0277778
-vernier = 0.037037
-Gmin = 0.00095643
-vernier = 0.0493827
-vernier = 0.0246913
-vernier = 0.0123457
-Gmin = 0.000913338
-vernier = 0.00617283
-vernier = 0.00308642
-Gmin = 0.00090842
-vernier = 0.00411522
-vernier = 0.00548696
-Gmin = 0.000897896
-vernier = 0.00731595
-vernier = 0.00975459
-Gmin = 0.00088137
-vernier = 0.0130061
-Gmin = 0.000855989
-vernier = 0.0173415
-vernier = 0.023122
-Gmin = 0.000815047
-vernier = 0.0308293
-vernier = 0.0411057
-Gmin = 0.000753858
-vernier = 0.0548076
-Gmin = 0.000666909
-vernier = 0.0730768
-vernier = 0.0974357
-Gmin = 0.000543354
-vernier = 0.129914
-vernier = 0.173219
-Gmin = 0.000392708
-vernier = 0.230959
-Gmin = 0.000236675
-vernier = 0.307945
-vernier = 0.153972
-vernier = 0.0769862
-vernier = 0.0384931
-vernier = 0.0192465
-Gmin = 0.00022573
-vernier = 0.00962327
-vernier = 0.00481163
-vernier = 0.00240582
-Gmin = 0.000223706
-vernier = 0.00120291
-vernier = 0.000601454
-vernier = 0.000451091
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195312
+Gmin = 3.23527e-06
+vernier = 0.000976562
+vernier = 0.000488281
 Gmin = 0
 Gmin stepping failed
 
@@ -256,21 +248,86 @@ Source Step = 98.7953%
 Source Step = 98.8853%
 Source Step = 98.9753%
 Source Step = 99.0652%
+Source Step = 99.1552%
+Source Step = 99.2452%
 Starting source stepping with srcstepmethod=1
 Source Step = 3.0303%
 vernier = 0.25
 Source Step = 0.0828598%
 Source Step = 0.201231%
 Source Step = 0.319602%
+Source Step = 0.437973%
+Source Step = 0.556345%
+vernier = 0.00585938
+Source Step = 0.710227%
+Source Step = 0.887784%
+Source Step = 1.06534%
+Source Step = 1.2429%
+Source Step = 1.42045%
+vernier = 0.00878906
+Source Step = 1.6424%
+Source Step = 1.90874%
+Source Step = 2.17507%
+Source Step = 2.44141%
+Source Step = 2.70774%
+vernier = 0.0131836
+Source Step = 3.02734%
+Source Step = 3.42685%
+Source Step = 3.82635%
+Source Step = 4.22585%
+Source Step = 4.62536%
+vernier = 0.0197754
+Source Step = 5.08478%
+Source Step = 5.68404%
+Source Step = 6.28329%
+Source Step = 6.88255%
+Source Step = 7.4818%
+vernier = 0.0296631
+Source Step = 8.14098%
+Source Step = 9.03986%
+Source Step = 9.93874%
+Source Step = 10.8376%
+Source Step = 11.7365%
+vernier = 0.0444946
+Source Step = 12.6803%
+Source Step = 14.0287%
+Source Step = 15.377%
+Source Step = 16.7253%
+Source Step = 18.0736%
+Source Step = 19.4219%
+vernier = 0.0667419
+Source Step = 21.4444%
+Source Step = 23.4669%
+Source Step = 25.4894%
+Source Step = 27.5119%
+Source Step = 29.5344%
+vernier = 0.100113
+Source Step = 32.467%
+Source Step = 35.5007%
+Source Step = 38.5344%
+Source Step = 41.5681%
+Source Step = 44.6019%
+vernier = 0.150169
+Source Step = 48.8491%
+Source Step = 53.3997%
+Source Step = 57.9502%
+Source Step = 62.5008%
+Source Step = 67.0514%
+vernier = 0.225254
+Source Step = 73.1947%
+Source Step = 80.0206%
+Source Step = 86.8465%
+Source Step = 92.4778%
+vernier = 0.0140784
 Source stepping failed
 
-Pseudo Transient succeeded in finding the operating point at 1.33925 s.
-Total elapsed time: 24.465 seconds.
+Pseudo Transient succeeded in finding the operating point at 1.03877 s.
+Total elapsed time: 18.857 seconds.
 
 Files loaded:
 C:\Users\a940590\Documents\GitHub\VMC\LTspice\VMC\VMC.net
 C:\Users\a940590\Documents\GitHub\VMC\LTspice\VMC\SHT40I_model.sub
-C:\Users\a940590\Documents\GitHub\VMC\LTspice\VMC\MOS.lib
 C:\Users\a940590\Documents\GitHub\VMC\LTspice\VMC\lm321lv.lib
+C:\Users\a940590\Documents\GitHub\VMC\LTspice\VMC\SI2306K.sub
 C:\Users\a940590\AppData\Local\LTspice\lib\sub\ADP7105.sub
 

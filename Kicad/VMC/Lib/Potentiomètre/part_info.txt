@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=PTV09A-4030U-B502
+PartCategory=Variable Resistor
+PackageCategory=Other
+PinCount=5
+Version=2.7
+Released=2020-10-23 10:37:54
+Downloaded=2025-06-10 08:57:17
+3D=Y

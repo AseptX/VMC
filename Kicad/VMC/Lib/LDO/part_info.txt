@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=MC78LC50NTRG
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=2.1
+Released=2015-08-12 03:41:44
+Downloaded=2025-06-10 08:52:29
+3D=Y
