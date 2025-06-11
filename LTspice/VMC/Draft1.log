@@ -1,0 +1,6 @@
+LTspice 24.1.7 for Windows
+Circuit: C:\Users\a940590\Documents\GitHub\VMC\LTspice\VMC\Draft1.net
+Start Time: Wed Jun 11 16:43:15 2025
+C:\Users\a940590\Downloads\MI355_UBB8_EDP_48V_ROCbreaker_workload_currentPWL_ECCN_4E992\MI355_UBB8_EDP_48V_ROCbreaker_workload_currentPWL_ECCN_4E992\50ms_UBB_HSC.txt(1): No negative value, please. You may want to use SCOPEDATA=<filename> instead. (See the LTspice help for more details.)
+-0.49976,258.33740756275
+^^^^^^^^
